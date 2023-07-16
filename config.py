@@ -1,4 +1,4 @@
 API_KEY = ''
 API_SECRET = ''
 
-dias = 7
+dias = 15
